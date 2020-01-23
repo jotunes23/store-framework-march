@@ -31,7 +31,8 @@
         "MasterCard",
         "Visa",
         "Diners Club"
-      ]
+      ],
+      "showInColor": true
     }
   },
   "flex-layout.col#footer-right-desktop": {
@@ -48,7 +49,7 @@
         },
         {
           "url": "https://www.instagram.com",
-          "name": "Insagram"
+          "name": "Instagram"
         },
         {
           "url": "https://twitter.com",
